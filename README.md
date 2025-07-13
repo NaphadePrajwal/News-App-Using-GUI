@@ -37,4 +37,4 @@ This is a simple, elegant **News App** built using **Python**, **Tkinter GUI**, 
 │
 ├── app.py              # Main Python file (NewsApp class)
 ├── README.md           # This file
-└── requirements.txt    # Dependencies (optional)
+
